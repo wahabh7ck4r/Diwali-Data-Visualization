@@ -1,14 +1,29 @@
-# Diwali Sales Data Analysis
+# Diwali Sales Data Exploration
 
-## About
+This project analyzes Diwali sales data through visualizations.
 
-This project analyzes sales data during the Diwali festival period, encompassing customer demographics, purchase details, and regional sales information.
+## Overview
+
+Explore `Data_Analysis.ipynb` for Diwali sales trends and visual insights.
 
 ## Usage
 
-To replicate or extend this analysis:
+## Clone the Repository
 
-### Clone the Repository
+1. Clone the repository using the following command in your terminal or command prompt:
+
 ```bash
 git clone https://github.com/ChudharyWahab/Diwali-Data-Visualization.git
-cd Diwali-Data-Visualization
+```  
+2. Open `Data_Analysis.ipynb` to view the analysis.
+
+## Files
+
+- `Diwali_Sales_Data.csv`: Sales dataset.
+- `Data_Analysis.ipynb`: Jupyter Notebook with visualizations.
+
+## Visualizations
+
+Find visual insights within the notebook.
+
+

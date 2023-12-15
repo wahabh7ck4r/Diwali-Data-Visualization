@@ -8,7 +8,6 @@ Explore `Data_Analysis.ipynb` for Diwali sales trends and visual insights.
 
 ## Usage
 
-## Clone the Repository
 
 1. Clone the repository using the following command in your terminal or command prompt:
 

@@ -18,7 +18,7 @@ git clone https://github.com/ChudharyWahab/Diwali-Data-Visualization.git
 
 ## Files
 
-- `Diwali_Sales_Data.csv`: Sales dataset.
+- `Diwali Sales Data.csv`: Sales dataset.
 - `Data_Analysis.ipynb`: Jupyter Notebook with visualizations.
 
 ## Visualizations
